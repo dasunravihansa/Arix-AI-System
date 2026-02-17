@@ -16,8 +16,8 @@ A high-performance Desktop AI Assistant built with Python and PyQt6, powered by 
 ## ⚙️ Setup
 1. Clone the repo.
 2. Install requirements: `pip install PyQt6 groq python-dotenv`
-3. Add your **Groq API Key** to a `.env` file or directly in `main.py`.
-4. Run: `python main.py`
+3. Add your **Groq API Key** to a `.env` file or directly in `ai.py`.
+4. Run: `python ai.py`
 
 ## 👤 Developer
 * **Dasun Ravihansa** - *AI Research & Development*
